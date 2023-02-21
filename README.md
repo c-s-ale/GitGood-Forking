@@ -1,7 +1,7 @@
 # GitGood-Forking
 
 
-## What is forking, anyway?
+## What is forking, anyway? 🍴
 
 So, you'd like to fork a repository!
 
@@ -26,4 +26,27 @@ So let's go through the steps we need to take to fork a repository!
   ![image](https://user-images.githubusercontent.com/114439245/220480107-21323e60-a003-4be0-8a13-9ffc3f987d1c.png)
 
   4. That's it! You've forked the repository! You now have all the code, and the commit history of that fork.
+
+## Syncing Your Fork ♻️
+
+Let's say the original repository owners make some changes to their repository, and you'd like those changes to be present in your fork. You might think you have to "re-fork" the repository, but GitHub allows you to "Sync fork" instead! Let's check out how to do that:
+
+  1. First of all, head to your fork on GitHub.com. We're looking for this banner:
+
+  ![image](https://user-images.githubusercontent.com/114439245/220480789-3ec9861a-074e-4213-867b-67837081c4e6.png)
+  
+  2. Notice how we see that this branch is "1 commit behind", we can click on the "Sync fork" button, and then the big green "Update branch" button to sync our fork with the original repository!
+
+  ![image](https://user-images.githubusercontent.com/114439245/220481122-3876f2cc-d358-4ef7-8eef-434b4acbc7a6.png)
+
+  3. That's it, you're done! 🥳
+
+
+## Summary
+
+And there you have it, that's all it takes! 
+
+
+
+
  
